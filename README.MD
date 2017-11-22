@@ -2,10 +2,10 @@
 
 ## Resources
 ```
-[Snap.svg](http://snapsvg.io/docs/)
+[Snap.svg]: http://snapsvg.io/docs/
 ```
 
 ## Codepen
 ```
-Link to [animated line example](https://codepen.io/Tenteku/pen/xPWyME)
+Link to [animated line example]: https://codepen.io/Tenteku/pen/xPWyME
 ```
