@@ -1,11 +1,11 @@
-#An SVG Exploration
+# An SVG Exploration
 
-##Resources
+## Resources
 ```
 [Snap.svg](http://snapsvg.io/docs/)
 ```
 
-##Codepen
+## Codepen
 ```
 Link to [animated line example](https://codepen.io/Tenteku/pen/xPWyME)
 ```
